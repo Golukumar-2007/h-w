@@ -1,0 +1,66 @@
+1) ping pong game = 1) laern to controll by mouse = sprite.x=World.mouseX
+                    2)controll by key using if function.  
+                    3) devide the ground by for loop = for(var i = 0;i<10;i++)
+                    4)give velocity = sprite.velocityX/Y
+                    5)learn if condation = if()
+                    6) learn isTouching condation
+                    7)learn to add animation by giving = .addAnimation()
+                    8) learn to give scale= sprite.scale= xyz
+                    9) learn to add image to variable = sprite.addImage()
+                    10) learn to give sound by = playSound("link")=true/false
+                    11) learn key down condation.
+                    
+
+
+2) t-rex = 1)using preload function
+           2)learn to make groups = new Groups()
+           3)learn to spawn obstacles on random position = Mater.round(random(positions))
+           4) learn to make colloidal skin = .setCollider(" shape"x,y,w,l)
+           5) learn about local variable and global variable 
+           6) chech colloid between groups and destroy each 
+
+
+3) piretinvision Game = 1)learn to make shapes for cannon and bolls (ellips and rect)=ellipse(sprite.position.x,sprite.position.y,10);
+                        2)learn to make infinite bolls=  empty arrey, when down arrow is press it pushes in new body, and use for loop() 
+                        3)learn anout json and dad & son node.
+                        4) learn about sweet alert for showing GAME OVER for game end
+                        5)learn to add to add sound and animation in Visual Studio = addAnimation() and addSound().
+                        6) learn to make trejectory for cannon ball.
+                        7) learn about class and constructure  
+                       
+
+
+4) multi Player car racing = 1) we learn about firebase 
+                             2) increasing camera angle = camera.position.y = sprite[index - 1].position.y;
+                             3) learn how to show rank 
+                             4)learn .ref()
+                             5) learn about .on ()
+                             6)resize window = resizeCanvas(windowWidth, windowHeight);
+                             7) how to fetch player info 
+                             8)learn to make  titalimg = createImg()
+                                              input    = createInput("").attribute()
+                                              element  = createElement()
+                                              button   =  createButton()
+                             9)learn function .mousePressed() 
+                             10) learn to make reset button which reset firebase data
+                             11)learn to show life bar, fuel bar and leader board.
+                             12) learn to check collision with fuel bar and obstacles by over lap= over lap (sprite, function())
+                             13) for checking player possition we use = this.leftKeyActive=true/false
+                             14) we learn how to reduce the fuel bar of player
+                             15) addSprites(spriteGroup, numberOfSprites, spriteImage, scale, positions = []) {
+                                       for (var i = 0; i < numberOfSprites; i++){}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
